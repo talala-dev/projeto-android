@@ -47,13 +47,13 @@ header{
     padding-top: 60px;
     padding-bottom: 50px;
     margin: auto;
+    
 
 }
 
 
 header > h1{
 color: #3ddc857a;
-text-shadow: 1px 1px 1px 1px black;
 font-family: var(--fonte-destaque);
 margin-top: 30px;
 padding-bottom: 1px;
