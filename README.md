@@ -6,4 +6,21 @@
 
 ---
 
-Este site foi feito com o intuito de colocar em prática os conhecimentos adquiridos no curso de HTML5 e CSS3 do professor Gustavo Guanabara, dono do canal Curso em Vídeo.
+Este site foi feito com o intuito de colocar em prática os conhecimentos adquiridos no [curso de HTML5 e CSS3](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) do professor Gustavo Guanabara, dono do [canal Curso em Vídeo](https://www.youtube.com/@CursoemVideo).
+
+## GitHub Pages
+
+O site está disponível através do GitHub pages: 
+**[Acesse aqui](https://talala-dev.github.io/projeto-android/)**
+
+---
+
+Foram utilizados alguns conceitos como:
+* Inserção de imagens, vídeos, links
+* Uso de diferentes tipos de fontes
+  * Idroid
+  * Arial
+  * Babas Neue
+* Listas
+* Favicon
+* Cores
